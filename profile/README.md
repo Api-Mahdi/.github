@@ -1,4 +1,7 @@
 <a href="https://komarev.com/ghpvc/?username=MahdiWarehouse">
+  <img align="left" src="http://img.shields.io/badge/Code%20Time-178%20hrs%2014%20mins-blue" alt="Code Time" />
+</a>
+<a href="https://komarev.com/ghpvc/?username=MahdiWarehouse">
   <img align="right" src="https://komarev.com/ghpvc/?username=MahdiWarehouse&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
@@ -21,3 +24,18 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
 <br/>
+
+## 📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tehran
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
